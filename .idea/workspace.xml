@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="accafea3-6826-4cd1-ada5-b503709fc9bd" name="Changes" comment="add gitignore" />
+    <list default="true" id="accafea3-6826-4cd1-ada5-b503709fc9bd" name="Changes" comment="add Description.txt">
+      <change beforePath="$PROJECT_DIR$/requirenments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirenments.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +40,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628086999507</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Description.txt">
+      <created>1628513987038</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628513987038</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Description.txt">
+      <created>1628513992609</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628513992609</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -55,6 +71,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+    <MESSAGE value="add Description.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Description.txt" />
   </component>
 </project>
