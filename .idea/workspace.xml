@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="accafea3-6826-4cd1-ada5-b503709fc9bd" name="Changes" comment="add test file">
-      <change afterPath="$PROJECT_DIR$/1_fixtures_start/test_fixtures_eexample_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_fixtures_conftest/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_fixtures_conftest/test_fixtures_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0_pytest_intro/test_pytest_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/0_pytest_intro/test_pytest_intro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
