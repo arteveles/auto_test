@@ -1,4 +1,4 @@
-/test_github/auto_test/venv
-/test_github/auto_test/node_modules
-/test_github/auto_test/cypress/integration/1-getting-started
-/test_github/auto_test/cypress/integration/2-advanced-examples
+/venv
+/node_modules
+/cypress/integration/1-getting-started
+/cypress/integration/2-advanced-examples
