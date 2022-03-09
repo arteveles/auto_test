@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="accafea3-6826-4cd1-ada5-b503709fc9bd" name="Changes" comment="передача одной фикстуры в другую с использованием yield&#10;&#10;&#10;два сетапа &#10;исполнение функции&#10;два тирдауна">
-      <change afterPath="$PROJECT_DIR$/7_data_structures/1_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_data_structures/2_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_data_structures/3_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_data_structures/4_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_data_structures/5_container.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dev-project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../message-dumper" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -145,7 +140,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add gitignore" />
